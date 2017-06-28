@@ -1,0 +1,14 @@
+# Configs
+*.env
+
+# Logs
+*.log
+
+# Dependencies
+node_modules
+
+# OS X
+.DS_Store
+
+# coverage
+coverage
